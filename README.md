@@ -1,2 +1,1 @@
-# Demo project
-Using: Next.js - React - Redux - TypeScript - styled components
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
